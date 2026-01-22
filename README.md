@@ -55,11 +55,7 @@ A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers ques
 
 ```pip install -r requirements.txt```
 
-## 4.Place your pdf in the data folderand run 
-
-```uv run ingest.py```
-
-## 5. Run the Application
+## 4. Run the Application
 
 ```streamlit run app.py```
 
