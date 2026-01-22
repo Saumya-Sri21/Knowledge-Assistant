@@ -1,9 +1,4 @@
-# Knowledge-Assistant 
-
-A **Streamlit-based RAG (Retrieval-Augmented Generation) app** using Google Gemini, LangChain and FAISS.  
-Ask questions strictly from preloaded PDF documents.
-
-# 📄 GenAI RAG Assistant
+# 📄 Knowledge-Assistant
 
 A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers questions **strictly from PDF documents** using Google Gemini, LangChain, FAISS, and HuggingFace Embeddings.
 
