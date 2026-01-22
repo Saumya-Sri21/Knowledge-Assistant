@@ -64,4 +64,4 @@ A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers ques
 ```streamlit run app.py```
 
 ## Video Demo
-[Demo Video Link]()
+[Demo Video Link](https://drive.google.com/file/d/1Cho0lx1Ve3C_G_wU855F8lKjUhXVZ6v5/view?usp=sharing)
