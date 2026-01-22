@@ -44,12 +44,12 @@ A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers ques
 ##  Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lakshya0018UP/GENAI
+   git clone https://github.com/Saumya-Sri21/Knowledge-Assistant
    cd Knowledge-Assistant
 
 ## 2. Create `.env` file
 
-```GOOGLE_API_KEY=your_api_key_here```
+```GOOGLE_API_KEY=your_api_key```
 
 ## 3. Install Dependencies
 
@@ -59,5 +59,5 @@ A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers ques
 
 ```streamlit run app.py```
 
-## Video Demo
+## Demo Video
 [Demo Video Link](https://drive.google.com/file/d/1Cho0lx1Ve3C_G_wU855F8lKjUhXVZ6v5/view?usp=sharing)
