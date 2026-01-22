@@ -1,6 +1,6 @@
 # 📄 Knowledge-Assistant
 
-A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers questions **strictly from PDF documents** using Google Gemini, LangChain, FAISS, and HuggingFace Embeddings.
+A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers questions **from already loaded PDF documents** using Google Gemini, LangChain, FAISS, and HuggingFace Embeddings.
 
 ---
 
@@ -47,15 +47,19 @@ A Streamlit-based **Retrieval-Augmented Generation (RAG)** app that answers ques
    git clone https://github.com/Saumya-Sri21/Knowledge-Assistant
    cd Knowledge-Assistant
 
-## 2. Create `.env` file
+2. Create `.env` file
 
 ```GOOGLE_API_KEY=your_api_key```
 
-## 3. Install Dependencies
+3. Create a virtual enviroment (Recommended):
+   ```bash
+   python -m venv venv
+   
+4. Install Dependencies
 
 ```pip install -r requirements.txt```
 
-## 4. Run the Application
+5. Run the Application
 
 ```streamlit run app.py```
 
