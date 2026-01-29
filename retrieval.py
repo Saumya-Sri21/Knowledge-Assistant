@@ -10,6 +10,6 @@ def get_retriever():
     vector_db = FAISS.load_local(
         "./faiss_index",
         embeddings,
-        allow_dangerous_deserialization=True
+        allow_dangerous_deserialization=True   #permission
     )
     return vector_db.as_retriever(search_kwargs={"k": 3})
